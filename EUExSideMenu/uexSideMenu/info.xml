@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uexplugins>
+    <plugin uexName="uexSideMenu" version="3.0.0" build="0">
+        <info>0:uexSideMenu</info>
+    </plugin>
+</uexplugins>
+
+
